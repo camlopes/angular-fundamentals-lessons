@@ -14,12 +14,12 @@ ng serve 04-control-flow-if
 
 # Instructions
 
-1. Add the user information to the credit card using the `Account Info` class.
+✔ 1. Add the user information to the credit card using the `Account Info` class.
 
-1. Update `app.component.ts` template to conditionally display the correct badge representing the credit card using the `membershipStatus` property.
+✔ 1. Update `app.component.ts` template to conditionally display the correct badge representing the credit card using the `membershipStatus` property.
 
-1. Save your changes.
+✔ 1. Save your changes.
 
-1. Confirm that your changes are correctly updated in the browser
+✔ 1. Confirm that your changes are correctly updated in the browser
 
 (BONUS) there may be a better way to write this conditionally? Which control flow command would you use for this?
