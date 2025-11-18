@@ -14,13 +14,13 @@ ng serve 05-control-flow-for
 
 ## Instructions
 
-1. In `app.component.ts`, update the component template to repeat the `<article class='listing'>` element (and children) one time for each element of the `carsList`.
+✔ 1. In `app.component.ts`, update the component template to repeat the `<article class='listing'>` element (and children) one time for each element of the `carsList`.
 
-1. Update the template to use the properties from `carsList`.
+✔ 1. Update the template to use the properties from `carsList`.
 
-1. Save your code.
+✔ 1. Save your code.
 
-1. Confirm that your changes are working in the browser.
+✔ 1. Confirm that your changes are working in the browser.
 
-(Bonus) What should be displayed if the there are no items in the list? Which construct should we use?
-(Bonus) Try replacing images with the cars in the ones in the assets folder.
+✔ (Bonus) What should be displayed if the there are no items in the list? Which construct should we use?
+✔ (Bonus) Try replacing images with the cars in the ones in the assets folder.
